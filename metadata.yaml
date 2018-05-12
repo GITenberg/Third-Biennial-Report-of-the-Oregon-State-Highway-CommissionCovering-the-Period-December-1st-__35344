@@ -1,0 +1,37 @@
+_repo: Third-Biennial-Report-of-the-Oregon-State-Highway-CommissionCovering-the-Period-December-1st-__35344
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Thompson, W. L.
+    gutenberg_agent_id: '37613'
+    url: http://www.gutenberg.org/2009/agents/37613
+  - agent_name: Booth, R. A.
+    gutenberg_agent_id: '37614'
+    url: http://www.gutenberg.org/2009/agents/37614
+  - agent_name: Benson, Simon
+    gutenberg_agent_id: '37612'
+    url: http://www.gutenberg.org/2009/agents/37612
+  - agent_name: Nunn, Herbert
+    gutenberg_agent_id: '37615'
+    url: http://www.gutenberg.org/2009/agents/37615
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2011-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35344'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HE'
+- !lcsh 'Highway engineering -- Oregon -- History'
+- !lcsh 'Water resources development -- Systems engineering -- Oregon -- History'
+title: 'Third Biennial Report of the Oregon State Highway Commission
+
+  Covering the Period December 1st, 1916 to November 30th, 1918'
+url: http://www.gutenberg.org/ebooks/35344
