@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '37615'
     url: http://www.gutenberg.org/2009/agents/37615
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35344#Third-Biennial-Report-of-the-Oregon-State-Highway-CommissionCovering-the-Period-December-1st-_
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2011-02-21'
 gutenberg_type: Text
